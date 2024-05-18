@@ -3,7 +3,7 @@ entries:
   traction:
   - apiVersion: v2
     appVersion: 0.4.1
-    created: "2024-05-18T08:40:51.721968727Z"
+    created: "2024-05-18T08:46:04.713615125Z"
     dependencies:
     - condition: postgresql.enabled
       name: postgresql
@@ -40,4 +40,4 @@ entries:
     urls:
     - https://Nas2020.github.io/traction-helm/traction-0.2.9.tgz
     version: 0.2.9
-generated: "2024-05-18T08:40:51.710593359Z"
+generated: "2024-05-18T08:46:04.702387497Z"
